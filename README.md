@@ -32,6 +32,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Food Ordering App UI in React Native](https://www.youtube.com/watch?v=GXe3EuVog9c)
+- [React Native Social Share Tutorial](https://www.youtube.com/watch?v=vXzpEJeVmi8)
+- [React Native Swipe To Delete Tutorial](https://www.youtube.com/watch?v=k-Ra0tdCEOc)
+- [React Native Image Picker Tutorial | Pick from Camera, Gallery | Crop Photo](https://www.youtube.com/watch?v=3_ldEVWlL18)
+- [React Native Bottom Sheet Tutorial with Profile Screen](https://www.youtube.com/watch?v=mjJzaiGkaQA)
 <!-- YOUTUBE:END -->
 
 ---
