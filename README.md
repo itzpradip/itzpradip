@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Social App Login and SignUp Screen UI Tutorial in React Native](https://www.youtube.com/watch?v=ZxP-0xbz5sg)
 - [Onboarding UI in React Native](https://www.youtube.com/watch?v=SMkR-iIGvwQ)
 - [Animated Loader in React Native](https://www.youtube.com/watch?v=mZXCOdIFg6Q)
 - [Animated Image Header in React Native](https://www.youtube.com/watch?v=JqlYrpoExE8)
 - [Food Ordering App UI in React Native](https://www.youtube.com/watch?v=GXe3EuVog9c)
-- [React Native Social Share Tutorial](https://www.youtube.com/watch?v=vXzpEJeVmi8)
 <!-- YOUTUBE:END -->
 
 ---
