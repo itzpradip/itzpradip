@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Email Authentication in React Native using Firebase](https://www.pradipdebnath.com/2020/10/04/how-to-implement-email-authentication-in-react-native-using-firebase/)
 - [How To Add Page Template From Plugin in WordPress](https://www.pradipdebnath.com/2019/08/17/how-to-add-page-template-from-plugin-in-wordpress/)
 - [WordPress REST API Tutorial: Add New Custom API Field](https://www.pradipdebnath.com/2019/07/16/wordpress-rest-api-tutorial-add-new-custom-api-field/)
 - [How To Add or Update WordPress Plugin SVN Repository with CLI](https://www.pradipdebnath.com/2019/06/04/how-to-add-or-update-wordpress-plugin-svn-repository-with-cli/)
 - [WordPress REST API Tutorial: Fetch Blog Posts by WP REST API](https://www.pradipdebnath.com/2018/11/27/wordpress-rest-api-tutorial-fetch-blog-posts-by-wp-rest-api/)
-- [Gutenberg Block Development Tutorial: Create Rich Text Block](https://www.pradipdebnath.com/2018/11/06/gutenberg-block-development-tutorial-create-rich-text-block/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
