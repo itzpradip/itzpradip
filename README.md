@@ -36,7 +36,7 @@
 - [Firebase Authentication in React Native Tutorial](https://www.youtube.com/watch?v=J7pkSP18Oko)
 - [Social App Login & Signup Screen UI Tutorial in React Native](https://www.youtube.com/watch?v=ZxP-0xbz5sg)
 - [Onboarding UI in React Native](https://www.youtube.com/watch?v=SMkR-iIGvwQ)
-- [Animated Loader in React Native](https://www.youtube.com/watch?v=mZXCOdIFg6Q)
+- [Animated Loader in React Native | Lottie Animation Tutorial](https://www.youtube.com/watch?v=mZXCOdIFg6Q)
 - [Animated Image Header in React Native](https://www.youtube.com/watch?v=JqlYrpoExE8)
 <!-- YOUTUBE:END -->
 
