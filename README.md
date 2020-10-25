@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Styled Components | Social Media App UI using Styled Component in React Native](https://www.youtube.com/watch?v=iyNmGXt4vNA)
 - [Facebook Login in React Native with Firebase Tutorial](https://www.youtube.com/watch?v=pDLo7Pfcvfk)
 - [Google Login in React Native with Firebase](https://www.youtube.com/watch?v=SdYp5JdMvs0)
 - [Firebase Authentication in React Native Tutorial](https://www.youtube.com/watch?v=J7pkSP18Oko)
 - [Social App Login & Signup Screen UI Tutorial in React Native](https://www.youtube.com/watch?v=ZxP-0xbz5sg)
-- [Onboarding UI in React Native](https://www.youtube.com/watch?v=SMkR-iIGvwQ)
 <!-- YOUTUBE:END -->
 
 ---
