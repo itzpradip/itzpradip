@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Native Firebase Storage Tutorial for Storing Photos](https://www.youtube.com/watch?v=1GpOS5mrGHI)
 - [Weather App UI Tutorial in Flutter](https://www.youtube.com/watch?v=A9EWCl67hKw)
 - [Google Map in Flutter Tutorial | Custom Map Marker | InfoWindow | Custom Map Style](https://www.youtube.com/watch?v=gTHKFRRSPss)
 - [Getting Started with Styled Components | Social Media App UI using Styled Component in React Native](https://www.youtube.com/watch?v=iyNmGXt4vNA)
 - [Facebook Login in React Native with Firebase Tutorial](https://www.youtube.com/watch?v=pDLo7Pfcvfk)
-- [Google Login in React Native with Firebase](https://www.youtube.com/watch?v=SdYp5JdMvs0)
 <!-- YOUTUBE:END -->
 
 ---
