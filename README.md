@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Native Firebase Firestore Tutorial | Create/Delete Post | Delete from Storage](https://www.youtube.com/watch?v=ncxmNxNk2yc)
 - [SpaceX React App | React JS Tutorial for Beginners 2021](https://www.youtube.com/watch?v=zZJda1Gf7UU)
 - [React Native Firebase Storage Tutorial for Storing Photos](https://www.youtube.com/watch?v=1GpOS5mrGHI)
 - [Weather App UI Tutorial in Flutter](https://www.youtube.com/watch?v=A9EWCl67hKw)
 - [Google Map in Flutter Tutorial | Custom Map Marker | InfoWindow | Custom Map Style](https://www.youtube.com/watch?v=gTHKFRRSPss)
-- [Getting Started with Styled Components | Social Media App UI using Styled Component in React Native](https://www.youtube.com/watch?v=iyNmGXt4vNA)
 <!-- YOUTUBE:END -->
 
 ---
