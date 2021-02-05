@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [User Profile with Firebase Firestore DB in React Native | Social App Tutorial](https://www.youtube.com/watch?v=aFtYsghw-1k)
 - [React Native Chat App UI Tutorial](https://www.youtube.com/watch?v=bGGeD5RkdzQ)
 - [Google Map Custom InfoWindow in Flutter](https://www.youtube.com/watch?v=0048xewPoxo)
 - [Shimmer Effect | Skeleton UI | Image Loading UI in React Native](https://www.youtube.com/watch?v=bHWoW_aNmnY)
 - [React Native Firebase Firestore Tutorial | Create/Delete Post | Delete from Storage](https://www.youtube.com/watch?v=ncxmNxNk2yc)
-- [SpaceX React App | React JS Tutorial for Beginners 2021](https://www.youtube.com/watch?v=zZJda1Gf7UU)
 <!-- YOUTUBE:END -->
 
 ---
