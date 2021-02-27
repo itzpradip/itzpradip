@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Basic Calculator App in Flutter](https://www.youtube.com/watch?v=_DHNmRaUZgM)
 - [Simple Note Taking App in React JS](https://www.youtube.com/watch?v=8yOolUkBNlQ)
 - [Introduction to Material UI in React](https://www.youtube.com/watch?v=qocBI77Vr9A)
 - [User Profile with Firebase Firestore DB in React Native | Social App Tutorial](https://www.youtube.com/watch?v=aFtYsghw-1k)
 - [React Native Chat App UI Tutorial](https://www.youtube.com/watch?v=bGGeD5RkdzQ)
-- [Google Map Custom InfoWindow in Flutter](https://www.youtube.com/watch?v=0048xewPoxo)
 <!-- YOUTUBE:END -->
 
 ---
