@@ -33,7 +33,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React Summit 2021](https://www.youtube.com/watch?v=rG0ZiEZQzXI)
+- [React Summit Remote Edition, Day 1, Base Camp Track](https://www.youtube.com/watch?v=rG0ZiEZQzXI)
 - [React Router Tutorial for Beginners | React Router DOM Tutorial](https://www.youtube.com/watch?v=AekvBMi0Guc)
 - [Basic Calculator App in Flutter](https://www.youtube.com/watch?v=_DHNmRaUZgM)
 - [Simple Note Taking App in React JS](https://www.youtube.com/watch?v=8yOolUkBNlQ)
