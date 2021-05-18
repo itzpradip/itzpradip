@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [WP GraphQL Fetch & Display Posts in React Native](https://www.youtube.com/watch?v=66Lf60PjnBE)
 - [Welcome To React Summit 2021](https://www.youtube.com/watch?v=VPr2iiPlIQ0)
 - [Custom Bottom Tab Navigator in React Native | React Navigation v5 Tutorial](https://www.youtube.com/watch?v=gPaBicMaib4)
 - [React Router Tutorial for Beginners | React Router DOM Tutorial](https://www.youtube.com/watch?v=AekvBMi0Guc)
 - [Basic Calculator App in Flutter](https://www.youtube.com/watch?v=_DHNmRaUZgM)
-- [Simple Note Taking App in React JS](https://www.youtube.com/watch?v=8yOolUkBNlQ)
 <!-- YOUTUBE:END -->
 
 ---
