@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create Complete Music Player App in React Native](https://www.youtube.com/watch?v=-F8twDee9rA)
 - [Music App UI in React Native | Create a Music Player in React native](https://www.youtube.com/watch?v=fOtCxD3AodY)
 - [Design Responsive eCommerce Website with Tailwind CSS | Getting Started with Tailwind CSS](https://www.youtube.com/watch?v=iNDvh7O2WZM)
 - [Weather App UI in React Native](https://www.youtube.com/watch?v=9XarYuINB_c)
 - [WP GraphQL Fetch & Display Posts in React Native | Headless WordPress](https://www.youtube.com/watch?v=66Lf60PjnBE)
-- [Welcome To React Summit 2021](https://www.youtube.com/watch?v=VPr2iiPlIQ0)
 <!-- YOUTUBE:END -->
 
 ---
