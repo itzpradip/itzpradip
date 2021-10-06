@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Gaming App UI in React Native with React Navigation 6](https://www.youtube.com/watch?v=I5doVFcG94U)
 - [How To Add Custom Fonts in React Native? #shorts #YTshorts](https://www.youtube.com/watch?v=iZnCPepCNxc)
 - [Getting Started with React Navigation 6 | Stack Navigator Tutorial](https://www.youtube.com/watch?v=FWwKjxSgLl8)
 - [Getting Started with WordPress Gutenberg Block Development Tutorial](https://www.youtube.com/watch?v=m2Aplh4-YU4)
 - [Create Complete Music Player App in React Native](https://www.youtube.com/watch?v=-F8twDee9rA)
-- [Music App UI in React Native | Create a Music Player in React native](https://www.youtube.com/watch?v=fOtCxD3AodY)
 <!-- YOUTUBE:END -->
 
 ---
