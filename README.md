@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dynamic Tab Navigator | Combining Multiple Navigators | React Navigation 6](https://www.youtube.com/watch?v=ihfS3kEvH2o)
 - [Build a Random Quote Generator App in React Native](https://www.youtube.com/watch?v=OV0qnHInNw0)
 - [Create Login Page in Next JS with Tailwind CSS | Login Page UI in React JS](https://www.youtube.com/watch?v=G1edEyAnEZY)
 - [Custom Drawer Navigator in React Navigation 6](https://www.youtube.com/watch?v=l8nY4Alk70Q)
 - [How to Add React Native Vector Icons? #shorts #YTshorts](https://www.youtube.com/watch?v=SqHmUXp5fC8)
-- [How to Reset WordPress Admin Password from DataBase? #shorts #YTshorts](https://www.youtube.com/watch?v=v60tXsw7xrw)
 <!-- YOUTUBE:END -->
 
 ---
