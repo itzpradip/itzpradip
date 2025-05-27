@@ -3,7 +3,7 @@
 - 🔭 I’m currently developing a mobile app
 - 🌱 I’m currently learning advanced concepts of Flutter & React Native
 - 👯 I’m looking to collaborate with other content creators on [YouTube][youtube]
-- 🥅 2020 Goals: get 15k subscribers on YouTube
+- 🥅 2025 Goals: get 50k subscribers on YouTube
 - ⚡ Fun fact: I love to listen songs. AR & Space exploration excites me
 
 **Connect with me:**
@@ -28,17 +28,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Dynamic Tab Navigator | Combining Multiple Navigators | React Navigation 6](https://www.youtube.com/watch?v=ihfS3kEvH2o)
-- [Build a Random Quote Generator App in React Native](https://www.youtube.com/watch?v=OV0qnHInNw0)
-- [Create Login Page in Next JS with Tailwind CSS | Login Page UI in React JS](https://www.youtube.com/watch?v=G1edEyAnEZY)
-- [Custom Drawer Navigator in React Navigation 6](https://www.youtube.com/watch?v=l8nY4Alk70Q)
-- [How to Add React Native Vector Icons? #shorts #YTshorts](https://www.youtube.com/watch?v=SqHmUXp5fC8)
-<!-- YOUTUBE:END -->
 
 ---
 
